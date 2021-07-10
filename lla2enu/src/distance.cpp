@@ -4,7 +4,6 @@
 //added from the task
 #include "nav_msgs/Odometry.h"
 #include <math.h>
-//lack of motivation resulted in not implementing a matrix library, e.g., eigen...
 //custom message
 #include "lla2enu/Dist.h"
 
